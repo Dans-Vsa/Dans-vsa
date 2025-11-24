@@ -54,4 +54,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dans-Vsa&show_icons=true&theme=dark&locale=en&layout=compact&width=400" alt="Dans-Vsa" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dans-Vsa&show_icons=true&theme=dark&locale=en&width=400" alt="Dans-Vsa" />
+</div>
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Dans-Vsa&theme=dark&=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Dans-Vsa/Dans-Vsa/output/github-snake-dark.svg" alt="snake gif" />
+</div>
+
 ###
