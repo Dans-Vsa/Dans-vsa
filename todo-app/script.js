@@ -26,7 +26,12 @@ taskInput.addEventListener('keypress', (e) => {
 function loadTasks() {
     const storedTasks = localStorage.getItem('tasks');
     if (storedTasks) {
-        tasks = JSON.parse(storedTasks);
+        try {
+            tasks = JSON.parse(storedTasks);
+        } catch (error) {
+            console.error('Error loading tasks from Local Storage:', error);
+            tasks = [];
+        }
     }
 }
 
