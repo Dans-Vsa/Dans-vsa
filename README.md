@@ -1,47 +1,52 @@
+# 💫 About Me
+Hi! I'm **Danish Vesa Bintang Parikesit**, a computer science student at UTDI who enjoys coding, UI/UX design, and exploring new things in technology. This GitHub profile is where I store my projects, experiments, and learning progress.
+
+📍 *Yogyakarta, Indonesia*  
+🎓 *Informatics – 2nd Semester*  
+🔥 *RPG enjoyer, mythology learner, and nature lover*  
+
+---
+
+# 💻 Tech Stack
+<div>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</div>
+
+---
+
+# 🌐 Social Media
+<a href="https://www.instagram.com/dasnhilo/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-dasnhilo-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+---
+
+# 📊 GitHub Stats
 <div align="center">
 
-# 👋 Hi, I'm Danish Vesa Bintang Parikesit!
+### 🔥 GitHub Streak
+<img src="https://streak-stats.demolab.com?user=Dans-Vsa&theme=tokyonight&hide_border=true" />
 
-### 🚀 Student | Web Developer | Tech Enthusiast  
+### 📈 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=Dans-Vsa&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img src="https://i.gifer.com/7VE.gif" width="350" alt="coding gif" />
-
----
-
-## 📊 GitHub Stats & Streak
-
-<img src="https://github-readme-stats.vercel.app/api?username=Dans-Vsa&show_icons=true&theme=tokyonight" height="150"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dans-Vsa&theme=tokyonight" height="150"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dans-Vsa&layout=compact&theme=tokyonight" height="150"/>
-
----
-
-## 🧠 Languages I Know
-Here are some languages & tools I've been learning and using:
-
-| Language / Tools | Level |  
-|------------------|--------|  
-| HTML             | ⭐⭐⭐⭐☆ |  
-| CSS              | ⭐⭐⭐⭐☆ |  
-| JavaScript       | ⭐⭐⭐☆☆ |  
-| PHP              | ⭐⭐⭐⭐☆ |  
-| Java             | ⭐⭐⭐☆☆ |  
-
----
-
-## 🌐 Connect with Me  
-
-<a href="https://www.instagram.com/dasnhilo/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
----
-
-### ✨ "Learning something new every day."
+### 📌 Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dans-Vsa&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
+
+---
+
+# 🧑‍💻 Coding Vibes
+<div align="center">
+  <img src="https://i.gifer.com/4V0b.gif" width="450" alt="coding gif" />
+</div>
+
+---
+
+# ✨ Thanks for Visiting!
+Feel free to check out my repositories.  
+If you find something interesting, don’t forget to leave a ⭐!
