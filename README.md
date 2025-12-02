@@ -31,10 +31,10 @@ Hi! I'm **Danish Vesa Bintang Parikesit**, a computer science student at UTDI wh
 <img src="https://streak-stats.demolab.com?user=Dans-Vsa&theme=tokyonight&hide_border=true" />
 
 ### 📈 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Dans-Vsa&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats-godkingjay.vercel.app/api?username=Dans-Vsa&show_icons=true&theme=tokyonight&hide_border=true" />
 
 ### 📌 Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dans-Vsa&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=Dans-Vsa&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
