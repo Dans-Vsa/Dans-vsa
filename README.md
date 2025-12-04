@@ -39,7 +39,7 @@
 
 <img src="./stats/streak.svg" alt="GitHub Streak"/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dans-Vsa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27" alt="GitHub Stats"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api? username=Dans-Vsa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27" alt="GitHub Stats"/>
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dans-Vsa&layout=donut&langs_count=6&theme=tokyonight&hide_border=true&bg_color=1A1B27" alt="Top Languages"/>
 
