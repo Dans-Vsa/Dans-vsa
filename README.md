@@ -37,7 +37,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dans-Vsa&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Dans-Vsa&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D&hide_border=true" />
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dans-Vsa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27" alt="GitHub Stats"/>
 
