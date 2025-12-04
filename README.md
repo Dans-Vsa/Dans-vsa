@@ -1,8 +1,6 @@
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazd6YXJzcDg3M3V6NnIxbWxvMHBjdzhzcjgxcnlpcW1mb3N5c3Q2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="500" alt="Coding GIF"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazd6YXJzcDg3M3V6NnIxbWxvMHBjdzhzcjgxcnlpcW1mb3N5c3Q2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="500" alt="Coding Cat"/>
 </div>
-
-<br/>
 
 ---
 
@@ -12,19 +10,13 @@
 
 ### Hey, I'm **Danish Vesa Bintang Parikesit**! 
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Frontend+Developer+%F0%9F%9A%80;Building+sleek+user+interfaces;Always+learning+new+things" alt="Typing SVG"/>
+</a>
+
 </div>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Frontend+Developer+%F0%9F%9A%80;Building+sleek+user+interfaces;Always+learning+new+technologies;Let's+build+something+awesome!" alt="Typing SVG" />
-  </a>
-</p>
-
-<br/>
-
 ---
-
-<br/>
 
 ## 🛠️ Languages & Tools
 
@@ -39,44 +31,27 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
 </div>
 
-<br/>
-
 ---
-
-<br/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-### 🔥 Streak Stats
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Dans-Vsa&theme=tokyonight&hide_border=true&background=1A1B27" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=Dans-Vsa&theme=tokyonight&hide_border=true&background=1A1B27" alt="GitHub Streak"/>
 
-<br/>
-
-### 📈 GitHub Stats
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dans-Vsa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27" alt="GitHub Stats"/>
 
-<br/>
-
-### 💻 Most Used Languages
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dans-Vsa&layout=donut&langs_count=6&theme=tokyonight&hide_border=true&bg_color=1A1B27" alt="Top Languages"/>
 
 </div>
 
-<br/>
-
 ---
-
-<br/>
 
 ## 🐍 Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Dans-Vsa/Dans-Vsa/output/github-snake-dark.svg" alt="Snake animation"/>
 </div>
-
-<br/>
 
 ---
 
