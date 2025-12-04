@@ -6,6 +6,8 @@
 
 ---
 
+<br/>
+
 ## 👋 About Me
 
 <div align="center">
@@ -15,12 +17,16 @@
 </div>
 
 <p align="center">
-I'm a passionate developer who loves turning ideas into reality through clean and efficient code. Currently diving deep into <strong>Frontend Development</strong>, building sleek user interfaces and crafting seamless user experiences. I enjoy exploring new technologies, learning best practices, and constantly improving my skills. When I'm not coding, you'll probably find me experimenting with design or discovering the latest tech trends. Let's connect and build something awesome together! 🚀
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Frontend+Developer+%F0%9F%9A%80;Building+sleek+user+interfaces;Always+learning+new+technologies;Let's+build+something+awesome!" alt="Typing SVG" />
+  </a>
 </p>
 
 <br/>
 
 ---
+
+<br/>
 
 ## 🛠️ Languages & Tools
 
@@ -39,12 +45,14 @@ I'm a passionate developer who loves turning ideas into reality through clean an
 
 ---
 
+<br/>
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
 ### 🔥 Streak Stats
-<img src="https://streak-stats.demolab.com?user=Dans-Vsa&theme=tokyonight&hide_border=true&background=1A1B27" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Dans-Vsa&theme=tokyonight&hide_border=true&background=1A1B27" alt="GitHub Streak"/>
 
 <br/>
 
@@ -54,13 +62,15 @@ I'm a passionate developer who loves turning ideas into reality through clean an
 <br/>
 
 ### 💻 Most Used Languages
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dans-Vsa&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27" alt="Top Languages"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dans-Vsa&layout=donut&langs_count=6&theme=tokyonight&hide_border=true&bg_color=1A1B27" alt="Top Languages"/>
 
 </div>
 
 <br/>
 
 ---
+
+<br/>
 
 ## 🐍 Contribution Snake
 
@@ -71,6 +81,8 @@ I'm a passionate developer who loves turning ideas into reality through clean an
 <br/>
 
 ---
+
+<br/>
 
 <div align="center">
 
