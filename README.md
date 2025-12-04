@@ -44,7 +44,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dans-Vsa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dans-Vsa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&rank_icon=github" height="180" alt="GitHub Stats"/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dans-Vsa&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=1A1B27" height="180" alt="Top Languages"/>
 </div>
 
