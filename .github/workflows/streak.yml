@@ -1,0 +1,24 @@
+name: GitHub Streak Local Generator
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate Streak SVG
+        run: |
+          mkdir -p stats
+          curl -o stats/streak.svg "https://streak-stats.demolab.com?user=Dans-Vsa&theme=tokyonight&hide_border=true"
+
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions"
+          git config user. email "github-actions@github. com"
+          git add stats/streak.svg
+          git commit -m "update streak"
+          git push
