@@ -10,8 +10,8 @@
 
 ### Hey, I'm **Danish Vesa Bintang Parikesit**! 
 
-<a href="https://git. io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com? font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Frontend+Developer+%F0%9F%9A%80;Building+sleek+user+interfaces;Always+learning+new+things" alt="Typing SVG"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg. demolab.com? font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Frontend+Developer+%F0%9F%9A%80;Building+sleek+user+interfaces;Always+learning+new+things" alt="Typing SVG"/>
 </a>
 
 </div>
@@ -37,7 +37,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/? user=Dans-Vsa&theme=tokyonight&hide_border=true&background=1A1B27" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/? user=Dans-Vsa&theme=tokyonight&hide_border=true&background=1A1B27" alt="GitHub Streak"/>
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dans-Vsa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27" alt="GitHub Stats"/>
 
