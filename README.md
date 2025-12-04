@@ -37,7 +37,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats-eight.vercel.app/? user=Dans-Vsa&theme=tokyonight&hide_border=true&background=1A1B27" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Dans-Vsa&theme=tokyonight&hide_border=true&background=1A1B27" alt="GitHub Streak"/>
 
 <br/><br/>
 
@@ -45,7 +45,7 @@
 
 <br/><br/>
 
-<img src="https://github-readme-stats-sigma-five.vercel. app/api/top-langs/? username=Dans-Vsa&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=1A1B27" alt="Top Languages"/>
+<img src="https://github-readme-stats-sigma-five.vercel. app/api/top-langs/?username=Dans-Vsa&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=1A1B27" alt="Top Languages"/>
 
 </div>
 
