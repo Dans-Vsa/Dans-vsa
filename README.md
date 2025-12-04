@@ -3,8 +3,7 @@
 Hi! I'm **Danish Vesa Bintang Parikesit**, a computer science student at UTDI who enjoys coding, UI/UX design, and exploring new technologies. This GitHub profile is where I store my projects, experiments, and learning notes.
 
 📍 Yogyakarta, Indonesia  
-🎓 Informatics – 2nd Semester  
-🔥 RPG player, mythology enthusiast, and nature lover
+🎓 Informatics 
 
 ---
 
