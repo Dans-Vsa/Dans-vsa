@@ -44,17 +44,17 @@ I'm a passionate developer who loves turning ideas into reality through clean an
 <div align="center">
 
 ### 🔥 Streak Stats
-<img src="https://streak-stats.demolab.com?user=Dans-Vsa&theme=tokyonight&hide_border=true&background=1A1B27" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=Dans-Vsa&theme=tokyonight&hide_border=true&background=1A1B27&cache_seconds=86400" alt="GitHub Streak"/>
 
 <br/>
 
 ### 📈 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Dans-Vsa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Dans-Vsa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&cache_seconds=86400" alt="GitHub Stats"/>
 
 <br/>
 
 ### 💻 Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dans-Vsa&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dans-Vsa&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&cache_seconds=86400" alt="Top Languages"/>
 
 </div>
 
@@ -65,7 +65,7 @@ I'm a passionate developer who loves turning ideas into reality through clean an
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Dans-Vsa/Dans-Vsa/output/github-snake-dark.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/Dans-Vsa/Dans-vsa/output/github-snake-dark.svg" alt="Snake animation"/>
 </div>
 
 <br/>
