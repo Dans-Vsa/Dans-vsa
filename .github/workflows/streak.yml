@@ -18,7 +18,7 @@ jobs:
       - name: Generate Streak SVG
         run: |
           mkdir -p stats
-          curl -o stats/streak.svg "https://streak-stats.demolab. com?user=Dans-Vsa&theme=tokyonight&hide_border=true"
+          curl -o stats/streak.svg "https://streak-stats.demolab.com?user=Dans-Vsa&theme=tokyonight&hide_border=true"
 
       - name: Commit & Push
         run: |
